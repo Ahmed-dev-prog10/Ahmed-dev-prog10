@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# 💫 About Me:
+ # 💫 About Me:
 I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functional, and scalable code
 
 
@@ -27,5 +24,5 @@ I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functiona
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmed-dev-prog10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
