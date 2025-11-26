@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-# 💫 About Me:
+ 
+ # 💫 About Me:
 I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functional, and scalable code
 
 
@@ -18,7 +16,7 @@ I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functiona
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-dev-prog10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote 
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -27,5 +25,4 @@ I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functiona
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmed-dev-prog10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
