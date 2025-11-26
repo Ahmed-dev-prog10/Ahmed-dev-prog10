@@ -18,7 +18,7 @@ I am a Full-Stack Developer.<br>Transforming complex ideas into clean, functiona
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-dev-prog10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
